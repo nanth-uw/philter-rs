@@ -1,0 +1,2 @@
+(?i)(?i)(?i)(?i)(?i)(?i)# Regex for cases where there are addresses with multiple streets listed
+\b([A-Z][a-zA-Z]+|([a-z]+\sof\s)?(("""+day_numbering+r""")))(\s("""+address_indicator+r"""))\s(and|near)\s([A-Z][a-zA-Z]+|([a-z]+\sof\s)?(("""+day_numbering+r""")))(\s("""+address_indicator+r"""))\b

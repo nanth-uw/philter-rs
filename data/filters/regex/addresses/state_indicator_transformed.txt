@@ -1,0 +1,1 @@
+(?i)\b(?!of\shealth)((?<=state\sof\s)|(?<=state:\s)|(?<=state\s))[A-Z]{2}\b

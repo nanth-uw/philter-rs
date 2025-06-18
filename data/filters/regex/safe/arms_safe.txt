@@ -1,0 +1,1 @@
+(?i)\b(upper|lower|right|left|alternate|your|her|his)\sarm(s)?\b

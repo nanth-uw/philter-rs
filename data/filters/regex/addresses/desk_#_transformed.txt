@@ -1,0 +1,1 @@
+(?i)\b((reception\s)?desk)\s[a-zA-Z0-9]+\b

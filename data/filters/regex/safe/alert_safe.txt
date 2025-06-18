@@ -1,0 +1,1 @@
+(?i)\b(is|was|fully)\salert\b

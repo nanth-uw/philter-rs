@@ -1,0 +1,1 @@
+(?i)\bfew\s(seconds|minutes|hours|days|weeks|months|years)\b

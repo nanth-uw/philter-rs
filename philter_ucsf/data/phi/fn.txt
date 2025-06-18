@@ -1,5 +1,0 @@
-[
-    "SILVER",
-    "church",
-    "holmes"
-]

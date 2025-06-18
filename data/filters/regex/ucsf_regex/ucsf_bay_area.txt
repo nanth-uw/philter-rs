@@ -1,0 +1,1 @@
+(?i)\bbay\sarea\b

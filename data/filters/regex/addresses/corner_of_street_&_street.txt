@@ -1,0 +1,1 @@
+(?i)(?i)(?i)(?i)(?i)\b(([a-z]+\s(of|at|from)(\sthe)?)\s)([A-Z][a-zA-Z]+|(("""+day_numbering+r""")))(\s("""+address_indicator+r"""))?\s&\s([A-Z][a-zA-Z]+|(("""+day_numbering+r""")))(\s("""+address_indicator+r"""))?\b

@@ -1,0 +1,1 @@
+(?i)\bbe\s(sure|safe|careful|more|less|kind|sensitive)\b

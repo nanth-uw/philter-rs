@@ -1,0 +1,1 @@
+(?i)\blast\s\d\sencounters\b

@@ -1,0 +1,1 @@
+(?i)\b((the|this|every)\smorning|morning\sof)\b

@@ -1,0 +1,1 @@
+(?i)\b(?<=editor\s)[A-Z][a-zA-Z]+(\,)?\s[A-Z][a-zA-Z]+\s\(\d+\)
